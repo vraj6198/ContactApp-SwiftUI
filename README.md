@@ -1,8 +1,8 @@
 # ContactApp-SwiftUI
 
-## ContactsApp is build in swiftUI using Lists and Navigation.
+ ContactsApp is build in swiftUI using Lists and Navigation.
 
-## You can find Video Link Below
+ You can find Video Link Below
 
 ## YouTube Link: https://youtu.be/_pBY5JDldxQ
 
